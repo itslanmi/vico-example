@@ -51,8 +51,9 @@ Več o licenci si lahko preberete [tukaj](https://opensource.org/licenses/Apache
 ## 📚 Primer uporabe
 
 ### **Glavni meni aplikacije in preprost primer grafa**
-<img src="assets/readme_images/main_menu.png" alt="Opis slike" width="360" height="800">
-<img src="assets/readme_images/chart_1.png" alt="Opis slike" width="360" height="800">
+<img src="assets/readme_images/main_menu.png" alt="Opis slike" width="360" height="800" style="display:inline-block; margin-right: 10px;">
+<img src="assets/readme_images/chart_1.png" alt="Opis slike" width="360" height="800" style="display:inline-block;">
+
 
 
 
