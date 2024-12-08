@@ -50,6 +50,6 @@ Več o licenci si lahko preberete [tukaj](https://opensource.org/licenses/Apache
 
 ## 📚 Primer uporabe
 
-|![Main menu screenshot](assets/readme_images/main_menu.png "Posnetek zaslona glavnega menija")|![Graph example screenshot](assets/readme_images/chart_1.png "Posnetek zaslona primera prostega line-grafa")|
+| ![Main menu screenshot](assets/readme_images/main_menu.png "Posnetek zaslona glavnega menija") | ![Graph example screenshot](assets/readme_images/chart_1.png "Posnetek zaslona primera prostega line-grafa") |
 
 
