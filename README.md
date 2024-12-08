@@ -44,17 +44,27 @@ Več o licenci si lahko preberete [tukaj](https://opensource.org/licenses/Apache
 - Podpora za **gladke animacije**, ki izboljšajo uporabniško izkušnjo.
 
 ### **Slabosti**
-- Odvisna od **Jetpack Compose**, kar pomeni, da ni združljiva s klasičnim View sistemom.
+- Odvisna od **Jetpack Compose**, za nekatere funkcionalnosti ki so grafičneg tipa.
+- Ne obstaja možnost prikazovanja podatkov z **PieChart**, kar je nekaterim uporabnikom zelo pomembno.
 - Manjša skupnost v primerjavi z nekaterimi bolj uveljavljenimi knjižnicami, kot je **MPAndroidChart**.
 
+---
 
 ## 📚 Primer uporabe
 
 ### **Glavni meni aplikacije in preprost primer grafa**
-<img src="assets/readme_images/main_menu.png" alt="Opis slike" width="360" height="800" style="display:inline-block; margin-right: 10px;">
-<img src="assets/readme_images/chart_1.png" alt="Opis slike" width="360" height="800" style="display:inline-block;">
+<img src="assets/readme_images/main_menu.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> <img src="assets/readme_images/chart_1.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> 
 
+### **Primer dinamicneg grafa (Live Data)**
+Tuki se lahko vidi da je ura zgoraj ista in da so prikazani drugi podatki ki so prišli, v tem primeru se lepo vidi raznolika uporabnost knjižnice in lepa implementacija animacij.
 
+<img src="assets/readme_images/chart_3_1.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> <img src="assets/readme_images/chart_3_2.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> 
 
+### **Še nekaj primerov uporabe in možnosti prikazovanja različnih podatkov**
+Vsi spodnji primeri imajo možnost pikazovanja več različnih podatkov ki se ujemajo po določeni kriteriji, npr. isti dan v tednu ali nekaj podrobnega.
+
+<img src="assets/readme_images/chart_2.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> 
+<img src="assets/readme_images/chart_4.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> 
+<img src="assets/readme_images/chart_5.png" alt="Opis slike" width="360" height="800" style="display:inline-block;"> 
 
 
