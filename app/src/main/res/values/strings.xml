@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Milan-Vico-Examples</string>
+    <string name="compose">Compose</string>
+    <string name="views">Views</string>
+    <string name="series_x">Series %d</string>
+    <string name="x_axis">x-axis</string>
+    <string name="y_axis">y-axis</string>
+    <string name="chart_1">Chart 1</string>
+    <string name="chart_2">Chart 2</string>
+    <string name="chart_3">Chart 3</string>
+    <string name="chart_4">Chart 4</string>
+    <string name="chart_5">Chart 5</string>
+</resources>
